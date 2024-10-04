@@ -146,12 +146,12 @@ body {
 }
 
 ::selection {
-  background: #03a4ed;
+  background: #800020;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #03a4ed;
+  background: #800020;
   color: #fff;
 }
 
@@ -189,7 +189,7 @@ body {
 
 .section-heading h2 em {
   font-style: normal;
-  color: #03a4ed;
+  color: #800020;
 }
 
 .section-heading h2 span {
@@ -209,7 +209,7 @@ body {
 
 .main-blue-button a {
   display: inline-block;
-  background-color: #03a4ed;
+  background-color: #800020;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -221,7 +221,7 @@ body {
 
 .main-blue-button-hover a {
   display: inline-block;
-  background-color: #03a4ed;
+  background-color: #800020;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -250,7 +250,7 @@ body {
 
 .main-red-button-hover a {
   display: inline-block;
-  background-color: #ff695f;
+  background-color: #bcc6cc;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -262,7 +262,7 @@ body {
 }
 
 .main-red-button-hover a:hover {
-  background-color: #03a4ed;
+  background-color: #800020;
 }
 
 .main-white-button a {
@@ -299,15 +299,15 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #ff685f!important;
+  color: #BCC6CC!important;
 }
 
 .background-header .nav li a.active {
-  color: #ff685f!important;
+  color: #BCC6CC!important;
 }
 
 .header-area {
-  background-color: #00b8d4;
+  background-color: #800020;
   position: relative;
   top: 0px;
   left: 0px;
@@ -384,7 +384,7 @@ header
 
 .header-area .main-nav .nav li:last-child .main-red-button-hover a:hover,
 .background-header .main-nav .nav li:last-child .main-red-button-hover a:hover {
-  background-color: #03a4ed !important;
+  background-color: #800020 !important;
 }
 
 .header-area .main-nav .nav li a {
@@ -409,12 +409,12 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #ff685f!important;
+  color: #BCC6CC!important;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #ff685f!important;
+  color: #BCC6CC!important;
   opacity: 1;
 }
 
@@ -476,7 +476,7 @@ header
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #ff685f!important;
+  color: #BCC6CC!important;
   padding-left: 25px;
 }
 
@@ -616,7 +616,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #ff685f;
+  color: yellow;
 }
 
 @media (max-width: 1200px) {
@@ -910,7 +910,7 @@ Banner Style
 }
 
 .main-banner .item h2 em {
-  color: #03a4ed;
+  color: #800020;
   font-style: normal;
 }
 
@@ -1465,7 +1465,7 @@ Subscribe
 
 .subscribe .inner-content form button {
   display: inline-block;
-  background-color: #03a4ed;
+  background-color: #800020;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -1481,7 +1481,7 @@ Subscribe
 }
 
 .subscribe .inner-content form button:hover {
-  background-color: #ff695f;
+  background-color: #BCC6CC;
 }
 
 
