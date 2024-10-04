@@ -881,13 +881,13 @@ Banner Style
 
 .main-banner:before {
   content: '';
-  background-image: url(../images/tech_img.jpg);
+  background-image: url(../images/cs_baner0.png);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
   right: 0;
-  top: 100px;
-  width: 819px;
+  top: 0px;
+  width: 699px;
   height: 674px;
 }
 
