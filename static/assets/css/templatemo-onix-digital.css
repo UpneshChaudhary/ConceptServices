@@ -307,7 +307,7 @@ header
 }
 
 .header-area {
-  background-color: #800020;
+  background-color: #BCC6CC;
   position: relative;
   top: 0px;
   left: 0px;
@@ -384,7 +384,7 @@ header
 
 .header-area .main-nav .nav li:last-child .main-red-button-hover a:hover,
 .background-header .main-nav .nav li:last-child .main-red-button-hover a:hover {
-  background-color: #800020 !important;
+  background-color: #BCC6CC !important;
 }
 
 .header-area .main-nav .nav li a {
